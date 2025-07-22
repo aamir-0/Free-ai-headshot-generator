@@ -30,31 +30,46 @@ This is a simple standalone script to generate professional headshots using your
 
 ## What You Need
 
+### Prerequisites
+1. **Node.js** - Download from https://nodejs.org (any recent version works)
+2. **Windows** - This script uses a .bat file (for other OS, run the .js file directly)
+
+### For Headshot Generation
 1. **Astria API Key** - Get yours from https://www.astria.ai/users/edit#api
 2. **4+ Training Photos** - Good quality photos of yourself (see tips below)
 3. **Image Hosting** - Upload your photos to PostImages.org or similar to get URLs
 
 ## Quick Start
 
-### Step 1: Setup (5 minutes)
+### Step 1: Install Node.js
+1. Download Node.js from https://nodejs.org
+2. Install with default settings
+3. Open Command Prompt and verify: `node --version`
+
+### Step 2: Setup Project
 ```powershell
-# Install dependencies (already done if you have the files)
+# Navigate to the project folder
+cd path\to\headshotmaker
+
+# Install dependencies
 npm install axios
 ```
 
-### Step 2: Get Your API Key
+### Step 3: Get Your API Key
 1. Go to https://www.astria.ai/users/edit#api
 2. Copy your API key (format: `sd_XXXXXX`)
 3. **Enable Idempotency** (recommended to prevent duplicate charges)
 
-### Step 3: Upload Training Photos
+### Step 4: Upload Training Photos
 1. Go to **[PostImages.org](https://postimages.org)** (free, no account needed)
 2. Upload 4-6 good photos of yourself
 3. **Copy the "Direct Link" URLs** (ending in .jpg/.png)
 4. Keep these URLs handy
 
-### Step 4: Generate Headshots
+### Step 5: Generate Headshots
 **Double-click** `generate_headshots.bat` and follow the prompts!
+
+**Total Time**: ~30 minutes | **Total Cost**: ~$4-6
 
 ## How It Works
 
@@ -64,8 +79,6 @@ npm install axios
 4. **Model Training**: AI learns your face (10-20 minutes)
 5. **Generate Headshots**: Creates 12+ professional photos (5-10 minutes)
 6. **Download**: Get direct links to all your new headshots
-
-**Total Time**: ~30 minutes | **Total Cost**: ~$4-6
 
 ## Photo Tips for Best Results
 
@@ -220,18 +233,6 @@ If you run into issues:
 ✅ **Private**: Your photos and API key never leave your control  
 
 Your $5 credit is perfect for getting started with professional headshots!
-
-## 🔍 Perfect For These Searches
-
-If you searched for any of these, you're in the right place:
-- "free AI headshot generator"
-- "cheap professional LinkedIn photos"  
-- "AI business headshots under $10"
-- "generate professional resume photos"
-- "astria API headshot tutorial"
-- "DIY professional headshots at home"
-- "AI photography tools free"
-- "professional headshots without photographer"
 
 ## ⭐ Why Choose This Over Alternatives?
 
