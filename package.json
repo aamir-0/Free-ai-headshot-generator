@@ -1,0 +1,39 @@
+{
+  "name": "free-ai-headshot-generator",
+  "version": "1.0.0",
+  "description": "🤳 Free AI Headshot Generator using Astria API - Generate 12+ professional headshots in 30 minutes for $5. Simple script, no signup required. Perfect for LinkedIn, resume, business cards.",
+  "main": "simple_headshot_generator.js",
+  "keywords": [
+    "ai-headshots",
+    "professional-headshots", 
+    "linkedin-photos",
+    "astria-api",
+    "business-photos",
+    "resume-photos",
+    "ai-photography",
+    "headshot-generator",
+    "corporate-headshots",
+    "free-ai-tools"
+  ],
+  "scripts": {
+    "start": "node simple_headshot_generator.js",
+    "test-api": "node test_api.js",
+    "generate": "node simple_headshot_generator.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "bin": {
+    "generate-headshots": "./simple_headshot_generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/free-ai-headshot-generator"
+  },
+  "author": "AI Headshot Generator Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/free-ai-headshot-generator/issues"
+  },
+  "homepage": "https://github.com/yourusername/free-ai-headshot-generator#readme"
+}

@@ -1,0 +1,19 @@
+{
+  "tune_id": 1234567,
+  "model_name": "example-headshots",
+  "generated_images": [
+    "https://mp.astria.ai/example1url...",
+    "https://mp.astria.ai/example2url...",
+    "https://mp.astria.ai/example3url...",
+    "https://mp.astria.ai/example4url...",
+    "https://mp.astria.ai/example5url...",
+    "https://mp.astria.ai/example6url...",
+    "https://mp.astria.ai/example7url...",
+    "https://mp.astria.ai/example8url...",
+    "https://mp.astria.ai/example9url...",
+    "https://mp.astria.ai/example10url...",
+    "https://mp.astria.ai/example11url...",
+    "https://mp.astria.ai/example12url..."
+  ],
+  "timestamp": "2025-07-21T16:23:48.768Z"
+}
