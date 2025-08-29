@@ -28,3 +28,9 @@ Thumbs.db
 # Ignore temporary files
 *.tmp
 *.temp
+
+# Python leftovers (project is JS-only)
+.venv/
+venv/
+__pycache__/
+*.pyc

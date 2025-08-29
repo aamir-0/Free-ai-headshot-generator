@@ -16,6 +16,8 @@ Generate **professional AI headshots** for free using Astria API. Perfect for Li
 
 This is a simple standalone script to generate professional headshots using your Astria API key. No complex setup required!
 
+Note: This project is JavaScript/Node.js only. The previous Python script has been removed.
+
 ## 🔒 Security & Privacy
 
 **✅ 100% Local & Secure**: Everything runs on YOUR computer. Your API key, photos, and personal data never go anywhere except directly to Astria's official API. This script:
@@ -67,7 +69,12 @@ npm install axios
 4. Keep these URLs handy
 
 ### Step 5: Generate Headshots
-**Double-click** `generate_headshots.bat` and follow the prompts!
+**Windows:** Double-click `generate_headshots.bat` and follow the prompts.
+
+**macOS/Linux:** Run from terminal:
+```bash
+node simple_headshot_generator.js
+```
 
 **Total Time**: ~30 minutes | **Total Cost**: ~$4-6
 
