@@ -18,7 +18,7 @@ This is a simple standalone script to generate professional headshots using your
 
 Note: This project is JavaScript/Node.js only. The previous Python script has been removed.
 
-## 🔒 Security & Privacy
+
 
 **✅ 100% Local & Secure**: Everything runs on YOUR computer. Your API key, photos, and personal data never go anywhere except directly to Astria's official API. This script:
 - Runs entirely on your local machine
@@ -27,8 +27,6 @@ Note: This project is JavaScript/Node.js only. The previous Python script has be
 - Your API key stays on your computer
 - No data collection, tracking, or external servers involved
 
-## 🎉 Success Story
-✅ **This script works!** User successfully generated 12 professional headshots in ~30 minutes for ~$4-5.
 
 ## What You Need
 
