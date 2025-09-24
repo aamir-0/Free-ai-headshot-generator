@@ -4,21 +4,6 @@
 
 Generate **professional AI headshots** for free using Astria API. Perfect for LinkedIn profiles, resumes, business cards, and professional portfolios. No monthly subscriptions - just $4-6 for 12+ high-quality headshots.
 
-## 🔍 What This Solves
-- ✅ **Free AI Headshot Generator** - No monthly fees or subscriptions
-- ✅ **Professional LinkedIn Photos** - Business-ready portraits  
-- ✅ **Resume & CV Photos** - Professional headshots for job applications
-- ✅ **Corporate Headshots** - Executive-style portraits for business
-- ✅ **Business Card Photos** - High-resolution professional images
-- ✅ **AI Portrait Generator** - Multiple styles and backgrounds
-
-**Popular searches this helps with**: "free AI headshots", "professional LinkedIn photos", "cheap business headshots", "AI portrait generator", "resume photo generator", "astria api tutorial"
-
-This is a simple standalone script to generate professional headshots using your Astria API key. No complex setup required!
-
-Note: This project is JavaScript/Node.js only. The previous Python script has been removed.
-
-
 
 **✅ 100% Local & Secure**: Everything runs on YOUR computer. Your API key, photos, and personal data never go anywhere except directly to Astria's official API. This script:
 - Runs entirely on your local machine
@@ -74,7 +59,7 @@ npm install axios
 node simple_headshot_generator.js
 ```
 
-**Total Time**: ~30 minutes | **Total Cost**: ~$4-6
+**Total Time**: ~30 minutes 
 
 ## How It Works
 
@@ -135,12 +120,6 @@ Are you a "man" or "woman"? man
    - All URLs will be displayed and saved to `headshot_results.json`
    - Right-click images to save them
 
-## Cost Breakdown
-
-With a $5 Astria credit:
-- **Model training**: ~$3-4 (one-time)
-- **12 headshots**: ~$1-2
-- **Total**: ~$4-6 ✅
 
 ## API Settings
 
@@ -227,38 +206,7 @@ If you run into issues:
 3. Make sure photos meet quality guidelines (see Photo Tips above)
 4. Try with fewer, higher-quality photos
 
-## Why This Works
-
-✅ **Proven**: Successfully tested and working  
-✅ **Simple**: No complex setup, just run and follow prompts  
-✅ **Fast**: 30 minutes total for professional results  
-✅ **Affordable**: ~$4-6 for 12+ headshots  
-✅ **Quality**: Uses Astria's professional AI models  
-✅ **Secure**: Runs locally on your PC, no third-party data collection  
-✅ **Private**: Your photos and API key never leave your control  
-
-Your $5 credit is perfect for getting started with professional headshots!
-
-## ⭐ Why Choose This Over Alternatives?
-
-**vs. Professional Photography ($200-500)**:
-- ✅ 20x cheaper ($4-6 total)
-- ✅ Done from home in 30 minutes
-- ✅ Multiple styles included
-- ✅ No scheduling or travel required
-
-**vs. Monthly AI Services ($30/month)**:
-- ✅ No monthly fees - pay once, use forever
-- ✅ Own your images forever  
-- ✅ No subscription cancellation hassles
-- ✅ No recurring charges
-
-**vs. Other GitHub Scripts**:
-- ✅ Actually tested and working (proven results)
-- ✅ Complete step-by-step documentation
-- ✅ Beginner-friendly (just double-click .bat file)
-- ✅ Real support and troubleshooting guide
-
+  
 ## 🔐 Privacy & Data Protection
 
 **What happens to your data:**
@@ -266,9 +214,7 @@ Your $5 credit is perfect for getting started with professional headshots!
 - ✅ API Key: Stored temporarily in memory only, never saved to files
 - ✅ Generated Images: Hosted by Astria, URLs returned to you
 - ✅ Script: Runs 100% locally on your computer
-- ❌ No third-party analytics, tracking, or data collection
-- ❌ No cloud servers or external services involved
-- ❌ No logs or storage of your personal information
+
 
 **You control everything:**
 - Your API key stays on your computer
