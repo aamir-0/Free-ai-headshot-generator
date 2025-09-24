@@ -1,10 +1,8 @@
-# Free AI Headshot Generator - Professional Photos in 30 Minutes
+# Free AI Headshot Generator
 
 **Keywords**: AI Headshot Generator, Free Professional Headshots, Astria API, LinkedIn Photos, Business Portraits, AI Photography, Resume Photos, Corporate Headshots
 
-Generate **professional AI headshots** for free using Astria API. Perfect for LinkedIn profiles, resumes, business cards, and professional portfolios. No monthly subscriptions - just $4-6 for 12+ high-quality headshots.
-
-
+Generate **professional AI headshots** for free using Astria API. Perfect for LinkedIn profiles, resumes, business cards, and professional portfolios.
 **✅ 100% Local & Secure**: Everything runs on YOUR computer. Your API key, photos, and personal data never go anywhere except directly to Astria's official API. This script:
 - Runs entirely on your local machine
 - Only communicates with Astria's official API endpoints
